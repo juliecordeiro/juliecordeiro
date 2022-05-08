@@ -1,7 +1,6 @@
 ### _Hello World! 👋_
 ### I'm Julie Cordeiro!
-----
-#
+---
 ##### _About me:_
 
 - 🚀 I’m currently working as a Software Developer Intern and graduating in System Analysis and Development.
