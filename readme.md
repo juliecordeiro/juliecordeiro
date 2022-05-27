@@ -1,5 +1,4 @@
-### _Hello World! 👋_
-### I'm Julie Cordeiro!
+### _Hello World! 👋_ I'm Julie Cordeiro!
 ---
 ##### _About me:_
 
