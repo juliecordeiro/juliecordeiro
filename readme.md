@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently working as a Software Developer Intern and graduating in System Analysis and Development.
 - 💻 I’m currently learning Backend Development, focusing on the Java stack with Angular 7.
-- :running_woman: I started my career transition to Development about three years ago.
+- :running_woman: I started my career transition to Development about one year.
 
 
 ---
