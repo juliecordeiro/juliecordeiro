@@ -1,4 +1,4 @@
-[![Banner](link do banner 705x260)]
+![Banner](https://i.ibb.co/vQsYCzz/Banner.png)
 <h1 align="center"> 👋 Olá, {{person.name}}!!</h1>
 <p align="center">Sou uma Desenvolvedora Fullstack determinada.
 Meu objetivo é me tornar cada vez mais precisa em meu trabalho e em meus estudos, absorvendo de forma detalhada os aprendizados que tenho durante o dia-a-dia.</p>
